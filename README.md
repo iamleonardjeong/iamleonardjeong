@@ -4,7 +4,7 @@
 
 🖼 [프레임워크 & 라이브러리] React, Redux, Redux-Saga, SCSS, Styled-Components
 
-📚 [사용 경험이 있는 스택] Next.js, GraphQL, Node.js, Koa, MongoDB, Express, MYSQL, AWS
+📚 [경험이 있는 스택] Next.js, GraphQL, Node.js, Koa, MongoDB, Express, MYSQL, AWS
 
 👨‍💻 [협업 툴] Github, Zeplin, Notion, Slack, Trello
 
